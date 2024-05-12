@@ -10,7 +10,7 @@ const FooterBottom = () => {
             <AiOutlineCopyright />
           </span>
           Copyright 2023 | Shopx | All Rights Reserved |
-          <a href="http://portfoliosachin.vercel.app/" target="_blank" rel="noreferrer">
+          <a href="https://portfoliosachinkumar.vercel.app/" target="_blank" rel="noreferrer">
             <span className="ml-1 font-medium group-hover:text-primeColor">
               Created by Sachin upadhyay
             </span>
